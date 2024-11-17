@@ -1,3 +1,5 @@
+package AP.MainProject.src;
+
 import java.util.Scanner; 
  
 public class H1 {

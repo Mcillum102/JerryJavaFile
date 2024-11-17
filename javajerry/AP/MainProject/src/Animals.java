@@ -1,3 +1,6 @@
+package AP.MainProject.src;
+
+
 public class Animals {
     private String type;
     private int age;

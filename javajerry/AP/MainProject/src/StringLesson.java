@@ -1,3 +1,5 @@
+package AP.MainProject.src;
+
 public class StringLesson {
 
     public static void main(String[] args) {

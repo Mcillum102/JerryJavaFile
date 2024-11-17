@@ -1,3 +1,5 @@
+package AP.MainProject.src;
+
 public class math{
     public static void main(String[] args) {
 
