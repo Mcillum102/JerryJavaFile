@@ -1,3 +1,5 @@
+package AP.MainProject.src;
+
 public class Customer {
 
     private String name;

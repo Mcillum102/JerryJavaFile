@@ -1,3 +1,5 @@
+package AP.MainProject.src;
+
 public class CheckDigit {
     
     public static int getCheck(int num) {
