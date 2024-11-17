@@ -1,6 +1,5 @@
 package NewTeachFiles;
 
-import java.util.Arrays;
 
 public class arrayLesson {
     
