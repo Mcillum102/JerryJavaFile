@@ -12,17 +12,17 @@ public class arrayLesson {
          */
        
         // temp varaible/object solution
-        // String temp;
-        // String[] s = {"four", "score", "and", "seven", "years", "ago"};
-        // for(int i = 0; i < s.length - 1; i+=2){
-        //     temp = s[i];
-        //     s[i] = s[i+1];
-        //     s[i+1] = temp;
-        // }
+        String temp;
+        String[] s = {"four", "score", "and", "seven", "years", "ago"};
+        for(int i = 0; i < s.length - 1; i+=2){
+            temp = s[i];
+            s[i] = s[i+1];
+            s[i+1] = temp;
+        }
 
-        // for(String i : s){
-        //     System.out.print(i + ", ");
-        // }
+        for(String i : s){
+            System.out.print(i + ", ");
+        }
         
         int[] numberArray = {1,5,323,6,67,2,4,36,4,23,434,25,34};
         /*  Find the largest number in this array
