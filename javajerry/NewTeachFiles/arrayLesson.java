@@ -28,12 +28,12 @@ public class arrayLesson {
         /*  Find the largest number in this array
          *  
          */
-        int temp = numberArray[0];
+        int tempInt = numberArray[0];
         for(int i = 0; i < numberArray.length; i++){
-            if (numberArray[i] > temp){
-                temp = numberArray[i];
+            if (numberArray[i] > tempInt){
+                tempInt = numberArray[i];
             }
         }
-        System.out.println(temp);
+        System.out.println(tempInt);
     }
 }
